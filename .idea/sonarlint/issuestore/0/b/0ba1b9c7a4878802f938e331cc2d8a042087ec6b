@@ -1,0 +1,21 @@
+
+d
+java:S1192	"GDefine a constant instead of duplicating this literal " @  @ " 8 times.(Ò¹€Í8ÔŸ××Ö1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "  @@  " 13 times.(¡ÆÖóşÿÿÿÿ8ÔŸ××Ö1
+d
+java:S1192	"GDefine a constant instead of duplicating this literal "    @ " 6 times.(Ò¹€Í8ÕŸ××Ö1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "   @  " 8 times.(¡ÆÖóşÿÿÿÿ8ÕŸ××Ö1
+d
+java:S1192	"GDefine a constant instead of duplicating this literal " @    " 3 times.(Ò¹€Í8ÕŸ××Ö1
+i
+java:S1192"GDefine a constant instead of duplicating this literal " @@@@ " 4 times.(¡ÆÖóşÿÿÿÿ8ÕŸ××Ö1
+i
+java:S1192"GDefine a constant instead of duplicating this literal " @@@  " 5 times.(¡ÆÖóşÿÿÿÿ8ÖŸ××Ö1
+9
+java:S1643"Use a StringBuilder instead.(ûÑÉŠ8ÖŸ××Ö1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¨û£úÿÿÿÿ8 ××Ö1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(°•Ş8 ××Ö1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(µâñÒ8 ××Ö1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ú¯Ğúÿÿÿÿ8 ××Ö1
