@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class JsonYamlConverter {
+public class YamlConverter {
 
     public static void main(String[] args) {
         String directoryPath;
